@@ -1,8 +1,5 @@
 import Header from './Header';
 import CardPizza from './Cardpizza';
-import Espanola from '../assets/img/Espanola';
-import Napolitana from '../assets/img/Napolitana';
-import Pepperoni from '../assets/img/pepperoni';
 import { formatNumber } from '../utils/format';
 
 const Home = () => {
