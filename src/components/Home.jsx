@@ -24,7 +24,7 @@ const Home = () => {
                             name="Española"
                             price={formatNumber(6950)}
                             ingredients={["mozzarella", "gorgonzola", "parmesano", "provolone"]}
-                            img="src\assets\img\Espanola.jpeg"
+                            img="src\assets\img\espanola.jpeg"
                         />
                     </div>
                     <div className="col-12 col-md-4">
