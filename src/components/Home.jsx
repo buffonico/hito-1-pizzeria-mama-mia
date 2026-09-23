@@ -1,6 +1,5 @@
 import Header from './Header';
 import CardPizza from './Cardpizza';
-import espanola from './src/assets/img/espanola'
 import { formatNumber } from '../utils/format';
 
 const Home = () => {
